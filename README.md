@@ -66,10 +66,10 @@
 <br><br>
 <p align="center">
     <a href="https://github.com/0520hy">
-        <img style="height:220px" src="https://github-readme-stats.vercel.app/api?username=0520hy&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="hayoung's github stats" />
+        <img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=0520hy&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="hayoung's github stats" />
     </a>
     <a href="https://github.com/0520hy">
-        <img style="height:220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0520hy&layout=donut&theme=nord&hide_border=true" />
+        <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0520hy&layout=donut&theme=nord&hide_border=true" />
     </a> 
 </p>
 <br>
