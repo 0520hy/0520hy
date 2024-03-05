@@ -69,7 +69,7 @@
         <img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=0520hy&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="hayoung's github stats" />
     </a>
     <a href="https://github.com/0520hy">
-        <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0520hy&layout=donut&show_icons=true&show_owner=0520hy&hide_title=false&theme=nord" />
+        <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0520hy&layout=donut&show_icons=true&show_owner=flase&hide_title=true&theme=nord&hide=none" />
     </a> 
 </p>
 <br>
