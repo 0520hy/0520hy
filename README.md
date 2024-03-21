@@ -43,22 +43,7 @@
        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </p>
 
- <p align="center">
-<strong>⚒️Tools</strong>
-<p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
-   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> 
-     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><br/>
-  
-   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
-     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  
  
-<br>
-<p align="center">
-<Strong>📩Email</Strong><br>▪️ dusgkdud7@gmail.com<br>
-
-</p>
-
 <br>
 
 </p>
